@@ -8,7 +8,7 @@
 - The "Generic" style uses icons that indicate the *position* of the buttons rather than the glyphs on them, with the exception of shoulder buttons and triggers. Those use Playstation's terminology (R1, R2)
 - These mods are designed with Clementine's default Xbox control layout in mind, save for the alternate Nintendo style, which uses "A" for confirm and "B" for cancel
 - The character creation screen is unchanged, for now.
-- GIMP-format project files are located in /Project
+- GIMP-format project files are located in `/Project Files`
 
 ## Tools used
 - GNU Image Manipulation Program - https://www.gimp.org/
